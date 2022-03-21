@@ -1,12 +1,3 @@
-```{css}
-center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-```
-
 # **STATS220 ASSIGNMENT 1**
 ## 1. *My MEME*
 *See the images below:*
@@ -66,6 +57,6 @@ image_write(meme, "my_meme.png")
 Now here it comes with that meme. I hope everyone likes it! P.s. That cat is so cute!!! If you want to get your own cat meme, that [website](https://www.pinterest.nz/pin/419327415305550929/) might give you some inspiration.*
 
 ## 3. *The creation of meme*
-*I'm a cat lover, and so I started searching for cute cat images on google first to give me inspirations. After seeing my original meme image, a shocked cat, I thought it would be interesting if I linked it with R code and Exam. I also searched a loading image to indicate the brain search process to make it more fun. *
+*I'm a cat lover, and so I started searching for cute cat images on google first to give me inspirations. After seeing my original meme image, a shocked cat, I thought it would be interesting if I linked it with R code and Exam. I also searched a loading image to indicate the brain search process to make it more fun.*
 
 
