@@ -2,7 +2,7 @@
 ## 1. *My MEME*
 *See the images below:*
 - *The first image is the original image I used to create my meme*
-- *The second image is the meme I created using the R package {magick}!*
+- *The second image is the meme I created using the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)!*
 <br>![original_1](https://i.pinimg.com/564x/4e/c4/f2/4ec4f2d69c9bc6b152abcb420252c3a8.jpg)
 <br>![Meme](my_meme.png)
 <br>*P.s The original image was adapted from the website called [Pinterest](https://www.pinterest.nz/). It is an exciting website with blogs where you can find a lot of entertaining images and posts.*
